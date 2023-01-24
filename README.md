@@ -18,6 +18,13 @@ Front End Mentor Project - Stats Preview Card
 - Learn not to DRY (Don't Repeat Yourself), so many repetations in CSS
 
 
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
 ## Colors
 
 ### Primary
